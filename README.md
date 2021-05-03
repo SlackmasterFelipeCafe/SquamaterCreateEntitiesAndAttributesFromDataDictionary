@@ -19,9 +19,6 @@ Contact Phil Brown, https://www.usgs.gov/staff-profiles/philip-j-brown or visit 
 - It may be useful to insert the EandA directly into the metadata - version 1 relys on a user cut and paste?
 - It may be useful to operate on files stored in sharepoint instead of the users harddrive?
 
-### Instructions
-- Create a template in UTF8 ASCII FGDC XML format that contains boilerplate text common to all childeren in a data release.  Be sure this template contains the approriate curly bracket tags, {SquamataTagExample} used to populate the template using this notebook.
-
 #### To execute a function/command select a cell and Hold-Shift + Press-Enter
 
 *"Birthing the tail that feeds it..."* 
